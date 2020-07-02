@@ -1,2 +1,2 @@
-# discord
+# discor
 fffs
